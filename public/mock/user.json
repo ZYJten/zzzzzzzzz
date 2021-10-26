@@ -1,0 +1,12 @@
+{
+  "lists": [
+    {
+      "userName": "小红",
+      "password": 123321
+    },
+    {
+      "userName": "小明",
+      "password": 666666
+    }
+  ]
+}
